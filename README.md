@@ -25,6 +25,8 @@ campos numéricos se castean en una vista (`00_setup_view.sql`).
   3. Central - ticket promedio de 196.45
   4. West - ticket promedio de 192.72
 
-## Próximo paso
-Dashboard interactivo en Looker Studio (KPIs de ingresos, margen % y ticket
-promedio, con segmentadores por región, categoría y periodo).
+## Dashboard
+## Dashboard
+   [Ver dashboard en Looker Studio](https://datastudio.google.com/reporting/29cffc9a-fc69-4a55-9462-b7977dadf359)
+
+   ![Dashboard Superstore](Dashboard.png)
